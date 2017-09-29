@@ -1,0 +1,6 @@
+<Frames count="3" path="textures/particles/" group="Particles">
+	<frame x="1" y="1" width="25" height="25" innerX="0" innerY="0" frameWidth="25" frameHeight="25" path="Sun_ring"/>
+	<frame x="28" y="1" width="23" height="27" innerX="4" innerY="2" frameWidth="32" frameHeight="32" path="leaf"/>
+	<frame x="53" y="1" width="70" height="70" innerX="0" innerY="0" frameWidth="70" frameHeight="70" path="glow2"/>
+</Frames>
+

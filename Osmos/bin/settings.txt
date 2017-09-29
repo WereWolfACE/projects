@@ -1,0 +1,1 @@
+{ "user" : { "color" : [33, 33, 33], "size" : 20 }, "enemy" : { "color1" : [0, 255, 0], "color2" : [255, 0, 0], "minSize" : 10, "maxSize" : 30, "count" : 50}, "fieldWidth" : 800, "fieldHeight" : 600, "resistance" : 0.5}

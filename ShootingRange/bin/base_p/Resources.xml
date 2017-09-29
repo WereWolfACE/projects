@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<Resources>
+	<FreeTypeFonts group="ShootingRangeGroup" upload="false">
+		<font name="arial" family="arial" size="12" color="255;255;255;255" letterSpacing="0">
+			<Effect alpha="0.1" type="shadow" blurX="2" blurY="2" strength="50" angle="0" inner="false" color="0;0;0;255" offset="0"/>
+		</font>
+	</FreeTypeFonts>
+	<Textures>
+    <texture id="GreenAim" path="textures/green_aim.png" group="ShootingRangeGroup" upload="false"/>
+    <texture id="DefaultPlayer" path="textures/default_player.png" group="ShootingRangeGroup" upload="false"/>
+    <texture id="LeftPlayer" path="textures/left_player.png" group="ShootingRangeGroup" upload="false"/>
+    <texture id="RightPlayer" path="textures/right_player.png" group="ShootingRangeGroup" upload="false"/>
+    <texture id="Bullet" path="textures/bullet.png" group="ShootingRangeGroup" upload="false"/>
+	</Textures>  
+</Resources>

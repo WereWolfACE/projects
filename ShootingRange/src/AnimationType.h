@@ -1,0 +1,13 @@
+#ifndef __ANIMATIONTYPE_H__
+#define __ANIMATIONTYPE_H__
+
+#pragma once
+enum class AnimationType
+{
+	ANIMATION_DELETE,
+	ANIMATION_ADD,
+	ANIMATION_SET_UNLIMITED,
+	ANIMATION_UPDATE
+};
+
+#endif //__ANIMATIONTYPE_H__

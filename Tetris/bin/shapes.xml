@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<Shapes>
+	<Shape color="0x8866FF">
+		<Points>
+			<Point x = "0" y = "0" />
+			<Point x = "0" y = "1" />
+			<Point x = "1" y = "1" />
+			<Point x = "2" y = "1" />
+		</Points>
+	</Shape>
+	<Shape color="0xBBFF00">
+		<Points>
+			<Point x = "0" y = "0" />
+			<Point x = "0" y = "1" />
+			<Point x = "1" y = "0" />
+			<Point x = "2" y = "0" />
+		</Points>
+	</Shape>
+	<Shape color="0x3C7575">
+		<Points>
+			<Point x = "0" y = "0" />
+			<Point x = "0" y = "1" />
+			<Point x = "1" y = "1" />
+			<Point x = "1" y = "2" />
+		</Points>
+	</Shape>
+	<Shape color="0xFF9177">
+		<Points>
+			<Point x = "0" y = "1" />
+			<Point x = "0" y = "2" />
+			<Point x = "1" y = "0" />
+			<Point x = "1" y = "1" />
+		</Points>
+	</Shape>
+	<Shape color="0x399177">
+		<Points>
+			<Point x = "0" y = "0" />
+			<Point x = "0" y = "1" />
+			<Point x = "1" y = "0" />
+			<Point x = "1" y = "1" />
+		</Points>
+	</Shape>
+	<Shape color="0x3991E5">
+		<Points>
+			<Point x = "0" y = "0" />			
+		</Points>
+	</Shape>
+	<Shape color="0xFF91BD">
+		<Points>
+			<Point x = "0" y = "0" />
+			<Point x = "0" y = "1" />
+			<Point x = "0" y = "2" />
+			<Point x = "1" y = "1" />
+		</Points>
+	</Shape>
+	<Shape color="0xEE4DBD">
+		<Points>
+			<Point x = "0" y = "0" />
+			<Point x = "1" y = "0" />
+			<Point x = "2" y = "0" />
+			<Point x = "3" y = "0" />
+		</Points>
+	</Shape>
+	<Shape color="0x004D00">
+		<Points>
+			<Point x = "0" y = "0" />
+			<Point x = "0" y = "1" />
+			<Point x = "0" y = "2" />
+			<Point x = "1" y = "0" />
+			<Point x = "1" y = "2" />
+		</Points>
+	</Shape>
+	<Shape color="0x0000FF">
+		<Points>
+			<Point x = "0" y = "1" />
+			<Point x = "1" y = "0" />
+			<Point x = "1" y = "2" />
+			<Point x = "1" y = "1" />
+			<Point x = "2" y = "1" />
+		</Points>
+	</Shape>
+</Shapes>
